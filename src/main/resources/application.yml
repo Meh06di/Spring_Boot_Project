@@ -1,9 +1,9 @@
 zoom:
   api:
     base-url: https://api.zoom.us/v2
-    account-id: n_tWvBzPSxiFco0Pn4eHvw
-    client-id: xjIvvZtTRRyi_POiI4urQ
-    client-secret: yW7C2RI1ZcoQ0WiaGTfNPcYXoFLfg4I7
+    account-id: *
+    client-id: *
+    client-secret: *
 spring:
   security:
     jwt:
